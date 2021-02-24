@@ -37,43 +37,49 @@ function writeMarkdown(text) {
     var md = window.markdownit();
     var result = md.render(text);
     
-    //console.log(result.replace(/&lt;br&gt;/g, "<br>"));
-
     // elimina l'escaping dei br
     result = result.replace(/&lt;br&gt;/g, "<br>");
     
     // aggiunge un nuovo div con il contenuto
     var tmp = document.createElement('div');
     tmp.innerHTML = result;
-    document.body.appendChild(tmp);
-    document.body.appendChild(document.createElement('hr'));
+
+    document.getElementById("box").appendChild(tmp);
+    document.getElementById("box").appendChild(document.createElement('hr'));
 
 }
 
+// prende il contenuto del file che gli viene passato
+// e chiama la funzione per scriverlo in MD
 function getMdFromUrl(url) {
     var xhttp = new XMLHttpRequest();
 
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
-            // QUI VA CHIAMATA LA FUNZIONE CHE DEVE AVVIARSI ALL'AVVENUTA RISPOSTA
+            // scrive il contenuto nel body convertendolo da MD ad HTML
             writeMarkdown(this.responseText);
         }
     };
 
-    xhttp.open("GET", url, false);
-    xhttp.send();
+    xhttp.open("GET", url, false);  // questa chiamata non e' asincrona perche'
+    xhttp.send();                   // potrebbe rovinare l'ordine di visualizzazione
 }
 
+// converte la stringa JSON contenente tutti i file della cartella
+// in un array e avvia la procedura lettura del file e parsing
 function parseResponse(risposta) {
+    // decodifica il JSON
     var parsedData = JSON.parse(risposta);
 
+    // ordina l'array in base al nome del file
     parsedData.sort(compare);
 
-    console.log(parsedData);
+    //console.log(parsedData);
     
+    // avvia la procedura di parsing per ogni elemento
     parsedData.forEach(element => {
-        console.log(element['name']);
-        console.log(element['download_url']);
+        //console.log(element['name']);
+        //console.log(element['download_url']);
 
         getMdFromUrl(element['download_url']);
     });
@@ -82,12 +88,15 @@ function parseResponse(risposta) {
 
 }
 
+// prende il contenuto della cartella pagine della repo di GitHub
+// ed avvia la procedura di conversione e parsing MD
 function callGitHubAPI() {
     var xhttp = new XMLHttpRequest();
 
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
-            // QUI VA CHIAMATA LA FUNZIONE CHE DEVE AVVIARSI ALL'AVVENUTA RISPOSTA
+            // converte la stringa JSON in array e converte ed effettua il parsing da MD ad HTML
+            // per ogni file
             parseResponse(this.responseText);
         }
     };
@@ -96,5 +105,5 @@ function callGitHubAPI() {
     xhttp.send();
 }
 
-
+// funzione per avviare tutta la procedura
 var populate = function() {callGitHubAPI()};

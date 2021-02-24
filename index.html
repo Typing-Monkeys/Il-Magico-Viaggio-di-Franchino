@@ -2,17 +2,19 @@
     <head>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.0.4/markdown-it.js"></script>
         <script src="code.js"></script>
+        
         <style>
-            div, hr {
-                margin-left: 25%;
-                margin-right: 25%;
-            }
-
             body {
                 background: black;
                 color: white;
                 font-size: 20px;
                 text-align: justify;
+
+                background-image: url("bg.jpg");
+                background-color: black;
+                background-repeat: no-repeat;
+                background-attachment: fixed;  
+                background-size: cover;
             }
 
             h2 {
@@ -29,11 +31,20 @@
             hr {
                 margin-top: 30px;
             }
+
+            #box {
+                background: black;
+                margin-left: 20%;
+                margin-right: 20%;
+                padding: 5px 40px 10px 40px;
+            }
         </style>
     </head>
     <body>
         <script>
            populate();
         </script>
+
+        <div id="box"></div>
     </body>
 </html>
