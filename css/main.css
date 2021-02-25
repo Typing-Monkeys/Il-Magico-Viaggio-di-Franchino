@@ -1,0 +1,32 @@
+body {
+    background: black;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+
+    background-image: url("../bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+h2 {
+    /*border-bottom: 8px solid #57c4d0;*/
+    /*text-decoration: underline darkgoldenrod;*/
+    text-decoration: underline darkorange;
+
+}
+
+strong {
+    color: orange;
+}
+
+hr {
+    margin-top: 30px;
+}
+
+#box {
+    background: black;
+    padding: 5px 40px 10px 40px;
+}
