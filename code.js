@@ -31,6 +31,21 @@ function compare(a, b) {
     return 0;
 }
 
+// sostituisce il nome dell'emoji con la rispettiva emoji
+function renderEmoji(text) {
+    var result;
+
+    result = text.replace(/:wolf:/g, "&#128058")    // lupo
+                .replace(/:heart:/g, "&#x1F9E1;")   // cuore
+                .replace(/:dragon:/g, "&#128009")   // drago
+                .replace(/:skull_and_crossbones:/g, "&#128128;")   // teschio e spade
+                .replace(/:evergreen_tree:/g, "&#127794;")   // sempreverde
+                .replace(/:astonished:/g, "&#128562")   // sbalordito
+    ;
+
+    return result;
+}
+
 // converte il Markdown in HTML e lo aggiunge al corpo
 function writeMarkdown(text) {
     // crea l'oggetto per il rendering e converte il Markdown
@@ -40,6 +55,9 @@ function writeMarkdown(text) {
     // elimina l'escaping dei br
     result = result.replace(/&lt;br&gt;/g, "<br>");
     
+    // renderizza le emoki
+    result = renderEmoji(result);
+
     // aggiunge un nuovo div con il contenuto
     var tmp = document.createElement('div');
     tmp.innerHTML = result;
@@ -107,3 +125,6 @@ function callGitHubAPI() {
 
 // funzione per avviare tutta la procedura
 var populate = function() {callGitHubAPI()};
+
+
+// wolf face &#128058
