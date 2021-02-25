@@ -30,3 +30,24 @@ hr {
     background: black;
     padding: 5px 40px 10px 40px;
 }
+
+.scroller {
+    background-color: black;
+    color: orange;
+
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding: 10px;
+
+    font-size: 20px;
+    font-weight: bolder;
+
+    width: 100%;
+}
+
+table {
+    position: fixed;
+
+    right: 5px;
+    bottom: 5px;
+}

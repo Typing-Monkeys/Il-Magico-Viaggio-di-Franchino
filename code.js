@@ -1,3 +1,20 @@
+
+//funzione che scrolla ll'ultimo giorno del diario
+function scroll_down(){
+    //prende l'ultimo elemento dei div filgi di box
+    var last_index = (document.getElementById("box").getElementsByTagName('div').length-1);
+    var x = document.getElementById("box").getElementsByTagName('div')[last_index];
+    //scrolla all'elemento x
+    x.scrollIntoView();
+}
+//funzione che scrolla ll'ultimo giorno del diario
+function scroll_up(){
+    //prende l'ultimo elemento dei div filgi di box
+    var x = document.getElementById("box").getElementsByTagName('div')[0];
+    //scrolla all'elemento x
+    x.scrollIntoView();
+}
+
 // questa funzione serve per ordinare l'array che ritorna la 
 // chiamata AJAX all'API di GitHub.
 // Ordina i record in modo crescente in base al numero del giorno

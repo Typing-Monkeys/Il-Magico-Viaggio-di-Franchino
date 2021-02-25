@@ -7,12 +7,26 @@
         
         <link rel="stylesheet" href="css/main.css">
 
-        <link rel="stylesheet" media="screen and (min-width: 800px) and ((max-width:1024px)" href="css/littlePage.css">
-        <link rel="stylesheet" media="screen and (max-width:320px)" href="css/littlePage.css">
-        <link rel="stylesheet" media="screen and (min-width: 1024px)" href="css/littlePage.css">
+        <link rel="stylesheet" media="screen and (max-width: 768px)" href="css/littlePage.css">
+        <link rel="stylesheet" media="screen and (min-width: 768px)" href="css/bigPage.css">
         
     </head>
     <body>
+        <table>
+            <tr>
+                <td>
+                    <button class="scroller" onclick="scroll_up()">Prima Pagina</button>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button class="scroller" onclick="scroll_down()">Ultima Pagina</button>
+
+                </td>
+            </tr>
+        </table>
+
         <script>
            populate();
         </script>
