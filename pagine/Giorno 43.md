@@ -68,18 +68,18 @@ Nessuno di noi aveva mai provato tale bontà.
 Rinvigoriti dal cibo e con i nuovi equipaggiamenti ci sentimmo finalmente pronti per affrontare la **Seconda Fera**: **L'Antico** :evergreen_tree:.
 
 Arrivati all'altare, Franchino bruciò dei semi speciali che teneva in tasca (probabilmente erano semi di coca).<br>
-Non appena il fumo si diradò, la terra cominciò a tremare e comparve una bestia dalle sembianze umane: era immenso, con gli occhi cremesi e la sua pelle sembrava fatta della corteccia degli alberi che ci circondavano.
+Non appena il fumo si diradò, la terra cominciò a tremare e comparve una bestia dalle sembianze umane: era immenso, con gli occhi cremisi e la sua pelle sembrava fatta della corteccia degli alberi che ci circondavano.
 
-Subito inizio' ad evocare rampicanti che ci attaccavano. I loro colpi erano dolorosissimi.
+Subito iniziò ad evocare rampicanti che ci attaccavano. I loro colpi erano dolorosissimi.
 
 Io mi occupai di distrarlo mentre gli altri lo colpivano con una pioggia di frecce infuocate.<br>
-Non so cosa sia successo ma qualcosa era andato storto: Franchino era in fin di vita ed un rampicante aveva ucciso Maja.<br>
+Non so cosa sia successo ma qualcosa era andato storto, Franchino era in fin di vita ed un rampicante aveva ucciso Maja.<br>
 PiselloPastello ed io continuammo a colpirlo.<br>
 Tutto sembrava andare per il peggio.
 
 Lo scontro continuava.
 
-Ad un certo punto vidi tornare Maja e Franchino (era piu' fatto del solito). Capii che c'era ancora speranza e mi gettai sulla bestia. Con un potente fendente la ferii mortalmente e la battaglia fu vinta !
+Ad un certo punto vidi tornare Maja e Franchino (era più fatto del solito). Capii che c'era ancora speranza e mi gettai sulla bestia. Con un potente fendente la ferii mortalmente e la battaglia fu vinta!
 
 Staccatagli la testa come trofeo, dal suo corpo si materializzarono 4 chiavi. A cosa mai serviranno ?
 

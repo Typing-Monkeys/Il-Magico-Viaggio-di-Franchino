@@ -1,12 +1,12 @@
 ## Giorno 55
 
-Andai a minare altro rame nei posti che aveva avvistato Maja durante le sue esplorazioni. Era mattina presto e il sole non era ancora del tutto sorto. Mentre minavo alzai lo sguardo e vidi lo stesso uomo incappucciato che aveva descritto il mio Nostromo. Lo guardai incuriosito e notai subito che non brandiva una falce ma una lancia e sotto il cappuccio si intravedeva un solo luminescente occhio blu. Pensai subito che fosse Odino in persona che osservava le mie azioni. Fui molto felice dell'accaduto.
+Andai a minare altro rame nei posti che aveva avvistato Maja durante le sue esplorazioni. Era mattina presto e il sole non era ancora del tutto sorto. Mentre minavo alzai lo sguardo e vidi lo stesso uomo incappucciato che aveva descritto il mio Nostromo. Lo guardai incuriosito e notai subito che non brandiva una falce ma una lancia e sotto il cappuccio si intravedeva un solo luminescente occhio blu. Pensai subito che fosse **Odino** in persona che osservava le mie azioni. Fui molto felice dell'accaduto.
 
-Tornato a casa mi accorsi che PiselloPastello e Maja erano andati a caccia e trovai Franchino strafatto in un angolo della casa che delirava cose sul suo magazzino. Sentimmo un urlo provenire dalla foresta. Era PiselloPastello. Pochi attimi dopo si risvegliò nel suo letto gridando "UDDIO I LUPI". Ci disse anche che in mezzo alla foresta avevano trovato uno strano nano a cavallo di un bisonte. Ci precipitammo subito da Maja.<br>
-Arrivati sul posto vidimo quello strano nano circondato da una specie di campo magico che usciva da delle rune piazzate sul terreno. Vicino a lui c'erano beni di ogni tipo ed una strana bestia pelosa che ricordava vagamente un bisonte. Appena misimo piede nel suo cerchio di rune ci iniziò a mostrare i suoi oggetti facendoci capire che era un mercante. Da lui comprammo una Canna da Pesca e moltissime esche.<br>
+Tornato a casa mi accorsi che PiselloPastello e Maja erano andati a caccia e trovai Franchino strafatto in un angolo della casa che delirava cose sul suo magazzino. Sentimmo un urlo provenire dalla foresta. Era PiselloPastello. Pochi attimi dopo si risvegliò nel suo letto gridando "UDDIO I LUPI". Ci disse anche che in mezzo alla foresta avevano trovato uno strano **nano a cavallo di un bisonte**. Ci precipitammo subito da Maja.<br>
+Arrivati sul posto vedemmo quello strano nano circondato da una specie di campo magico che usciva da delle rune piazzate sul terreno. Vicino a lui c'erano beni di ogni tipo ed una strana bestia pelosa che ricordava vagamente un bisonte. Appena mettemmo piede nel suo cerchio di rune ci iniziò a mostrare i suoi oggetti facendoci capire che era un mercante. Da lui comprammo una **Canna da Pesca** e moltissime esche.<br>
 Fui molto attratto da un particolare oggetto in suo possesso: **la carne di Ymir**. La comprai con la certezza che avremmo potuto usarla per costruire ottime armature.
 
-Mentre tornavamo a casa io e Maja avvistammo una cava di Troll e decidemmo di andarla ad esplorare. Appena entrati ci trovammo difronte un Troll dal Culo Tarzanellante :astonished: ! Uscimmo di corsa e chiedendo aiuto.<br>
+Mentre tornavamo a casa io e Maja avvistammo una cava di Troll e decidemmo di andarla ad esplorare. Appena entrati ci trovammo di fronte un **Troll dal Culo Tarzanellante** :astonished: ! Uscimmo di corsa chiedendo aiuto.<br>
 Franchino e PiselloPastello si precipitarono dentro la caverna e subirono un pesante attacco del Troll che uccise sul colpo Franchino e ferì gravemente PiselloPastello.<br>
 Attendemmo fuori il ritorno di Franchino (che era ovviamente fatto di Coca) e tutti insieme massacrammo il Troll.
 
@@ -15,14 +15,14 @@ La sera sentimmo lo stesso puzzo che permeava l'area della palude e poco dopo fu
 
 Alla fine del combattimento Franchino si drogò ancora.
 
-Il successivo, tramite il teletrasporto naturale di Franchino, ritornammo nella fetida palude e recuperammo la nave senza grossi problemi. Decidemmo di seguire un ramo di Yggdrasill che spuntava dall'orizzonte. La nostra direzione era l'est.
+Il giorno successivo, tramite il teletrasporto naturale di Franchino, ritornammo nella fetida palude e recuperammo la nave senza grossi problemi. Decidemmo di seguire un ramo di **Yggdrasill** che spuntava dall'orizzonte. La nostra direzione era l'est.
 
 Dopo diversi giorni passati in mare finimmo in un canale.<br>
 Su entrambe le sponde avvistammo degli alberi spogli e capimmo che quello era il nostro obbiettivo: la Palude.<br>
 Ricordandoci di com'era andato lo scorso attracco, decidemmo di cercare una terra più tranquilla per lasciare la nave.
 
 Poche miglia dopo trovammo una terra mai vista prima: una terra brulla e pianeggiante apparentemente desolata. Sembrava perfetta.<br>
-Come di consueto feci scendere gli altri dalla barca per fargli costruire il porte mentre io la tenevo al sicuro in mare.Sembrò andare tutto bene fin quando Maja non avvistò dei piccoli Goblin all'orizzonte.<br>
+Come di consueto feci scendere gli altri dalla barca per fargli costruire il porte mentre io la tenevo al sicuro in mare.Sembrò andare tutto bene fin quando Maja non avvistò dei piccoli **Goblin** all'orizzonte.<br>
 Non ci eravamo mai trovati faccia a faccia con quella specie e fummo tratti in inganno dal loro aspetto innocuo e minuto.<br>
 Maja, come al solito, scappò urlando di terrore mentre Franchino e PiselloPastello corsero in suo soccorso.<br>
 Franchino esaltato dalla sua sostanza preferita non capì l'immediato pericolo. Non riuscì nemmeno a sferrare un colpo che venne annichilito all'istante da una mazzata del Goblin. Nemmeno gli altri due fecero in tempo ad accorgersi della situazione che furono subito uccisi.
@@ -43,8 +43,8 @@ Franchino, dato che era sotto effetto di droghe pesanti, creò un altro suo tele
 
 Ci ritenemmo soddisfatti del nostro risultato e tornammo alla base operativa.
 
-Era notte e sentimmo tremare la terra. Usciti da casa ci accorgemmo di essere assaliti da due Troll dal Culo Tarzanellante. Oramai eravamo diventati degli abili cacciatori di Troll e li sconfiggemmo senza alcuna difficoltà.<br>
-Franchino stufo dei continui attacchi decapitò i cadaveri dei Troll e appese le loro teste sul muro esterno dell'accampamento come avvertimento.
+Era notte e sentimmo tremare la terra. Usciti da casa ci accorgemmo di essere assaliti da **due Troll dal Culo Tarzanellante**. Oramai eravamo diventati degli abili cacciatori di Troll e li sconfiggemmo senza alcuna difficoltà.<br>
+**Franchino** stufo dei continui attacchi **decapitò i cadaveri** dei Troll e appese le loro teste sul muro esterno dell'accampamento come avvertimento.
 
 Per festeggiare la vittoria decidemmo di dare un festa: **ONE WILD PARTY**.<br>
 Io e Franchino riuscimmo a rubare a PiselloPastello delle bacche che teneva nascoste. Erano le più potenti che avessimo mai provato. La festa era perfetta. Tutti ci stavamo divertendo.
@@ -55,11 +55,11 @@ Trovammo poco dopo il suo cadavere vicino a quattro lupi che, inutile dirlo, ci 
 
 Ci risvegliammo di nuovo nei nostri letti e tornammo a riprendere le nostre cose, ma Franchino non era ancora soddisfatto.
 Salì di nuovo sul monte.<br>
-Fummo nuovamente costretti ad andare in suo soccorso. In mezzo alla tempesta di neve avvistammo una strana creatura: sembrava un lupo, ma camminava su due zampe ed aveva il pelo nero come la pece. Osservandolo meglio non ebbi dubbi: era il pericolosissimo **Lupo Manaio**. Tentammo di abbatterlo con delle frecce ma non sembrava affatto interessato al combattimento e fuggì.
+Fummo nuovamente costretti ad andare in suo soccorso. In mezzo alla tempesta di neve avvistammo una strana creatura: sembrava un lupo, ma camminava su due zampe ed aveva il pelo nero come la pece. Osservandolo meglio non ebbi dubbi, era il pericolosissimo **Lupo Manaio**. Tentammo di abbatterlo con delle frecce ma non sembrava affatto interessato al combattimento e fuggì.
 
 Ritrovammo Franchino sano e salvo che era più che convinto a scalare la montagna, ma nel mentre apparve una Viverna che Maja ingaggiò al grido di "Tanto è scarsa". PiselloPastello era impegnato a minare roccia e non si accorse della sua presenza. Questo gli risultò fatale in quanto venne immediatamente ucciso dal suo gelido soffio.
 
-Riuscimmo a sconfiggerla e continuammo la scalata. Franchino che era il più motivato di tutti era molto più avanti di noi, quando improvvisamente una roccia che aveva davanti si trasformò in un Golem di Roccia. Fu il panico e scendemmo il più velocemente possibile da quella trappola mortale di giaccio e neve.
+Riuscimmo a sconfiggerla e continuammo la scalata. Franchino che era il più motivato di tutti era molto più avanti di noi, quando improvvisamente una roccia che aveva davanti si trasformò in un Golem di Roccia. Fu il panico e scendemmo il più velocemente possibile da quella trappola mortale di ghiaccio e neve.
 
-Finalmente Frnachino capì che era troppo presto per quella montagna.
+Finalmente Franchino capì che era troppo presto per quella montagna.
 
